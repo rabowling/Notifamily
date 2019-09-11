@@ -1,0 +1,68 @@
+<resources>
+    <!-- Strings related to splash -->
+    <string name="app_name">Noti<font color="#81b9bf">Family</font></string>
+    <string name="author">Reed Bowling</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="credit">App icon made by <a href="http://www.freepik.com/">Freepik</a> from <a href="http://www.flaticon.com">www.flaticon.com</a></string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_signin">Invalid email/password combination</string>
+    <string name="error_invalid_register">Could not register this account</string>
+    <string name="action_logout_message">You have been logged out</string>
+    <string name="action_delete_account">You have successfully deleted your account</string>
+    <!-- Strings related to main activity -->
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_map">Map</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="fragment_title_child_list">Child List</string>
+    <!-- Strings related to Settings page -->
+    <string name="setting_title">Settings</string>
+    <string name="setting_push_notifications">Allow push notifications</string>
+    <string name="setting_location">Allow this app to access your location</string>
+    <string name="setting_username">Change email</string>
+    <string name="setting_password">Change password</string>
+    <string name="setting_submit">Submit Changes</string>
+    <string name="setting_delete">Delete Account</string>
+    <string name="setting_logout">Log Out</string>
+    <string name="setting_add_child">Add Child Account</string>
+    <string name="setting_child_name">Child\'s name</string>
+    <string name="setting_create_child">Create</string>
+    <string name="setting_cancel">Cancel</string>
+    <string name="setting_confirm_delete">Are you sure you want to delete your account? This action is permanent.</string>
+    <string name="setting_failed_reauth">Failed to re-authenticate user. Please try again</string>
+    <string name="setting_failed_delete">Failed to delete account. Please try again</string>
+    <string name="setting_delete_success">Deleted account</string>
+    <!-- Strings related to Parent RecyclerView -->
+    <string name="child_name">%1$s</string>
+    <string name="child_completed">Completed: %1$d</string>
+    <string name="child_notification">Notifications: %1$d</string>
+    <!-- Strings related to adding notifications -->
+    <string name="add_notif_content_hint">Message</string>
+    <string name="add_notif_location_hint">Address (Optional)</string>
+    <string name="add_notif_time_hint">Time</string>
+    <string name="add_notif_submit">Submit</string>
+    <string name="add_notif_date_format">%1$s:%2$s %3$s/%4$s/%5$s</string>
+    <!-- Strings related to editing notifications -->
+    <string name="mark_complete">Mark as completed</string>
+    <string name="delete_notification">Delete Notification</string>
+    <string name="discard_changes">Discard Changes</string>
+    <!-- Strings related to recycler views -->
+    <string name="user_completed">Tasks completed: %1$d</string>
+    <string name="user_total">Total tasks: %1$d</string>
+    <string name="notification_notified">Notified: %1$s</string>
+    <string name="notification_completed">Completed: %1$s</string>
+    <string name="notification_time">Time: %1$s</string>
+    <string name="notification_location">Location: %1$s</string>
+    <!-- Strings related to maps -->
+    <string name="default_location">1600 Amphitheatre Pkwy, Mountain View, CA 94043</string>
+</resources>
