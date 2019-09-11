@@ -22,7 +22,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAagSCf_XUR9R1gIr9_5Q2dWQMbx4maCbE" />
+            android:value="redacted" />
 
         <service android:name=".MyFirebaseMessageService">
             <intent-filter>
